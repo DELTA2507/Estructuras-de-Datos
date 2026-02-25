@@ -1,4 +1,4 @@
-package Exercises.Hotel;
+package Ejercicios.Hotel;
 
 import java.util.Scanner;
 

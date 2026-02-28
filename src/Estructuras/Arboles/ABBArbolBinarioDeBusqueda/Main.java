@@ -8,7 +8,7 @@ public class Main {
         arbolValores.insert(75, "Gundam");
         arbolValores.insert(80, "Resogunn");
         arbolValores.insert(166, "Gundam");
-        arbolValores.insert(0, "ShogunRaiden");
+        arbolValores.insert(0, "Defalt");
 
         arbolValores.inOrder(arbolValores.getRaiz());
         arbolValores.preOrder(arbolValores.getRaiz());

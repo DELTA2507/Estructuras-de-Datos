@@ -3,7 +3,7 @@ package AlgoritmosBusqueda;
 import java.util.Arrays;
 
 public class BusquedaBinaria {
-    static void main (String args[]) {
+    static void main (String[] args) {
         // Array de ejemplo
         int[] arreglo = {1,99,54594,52,5295,92592493,923,49429,9252295,945934,59,5,5,349,5435,95,94,59353};
 
